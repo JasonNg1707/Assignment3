@@ -27,6 +27,36 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/popsicle-skates/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/shoes-for-skateboarding/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/roller-skates/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/scooters/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/scooter-shoes/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
